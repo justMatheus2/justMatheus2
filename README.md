@@ -15,7 +15,7 @@
  
 <br>
  
-### See more abaut me!
+### See more about me!
  
 <div> 
   <a href="https://www.facebook.com/matheus.henrike.1217" target="_blank">Facebook</a>
