@@ -18,8 +18,8 @@
 ### See more about me!
  
 <div> 
-  <a href="https://www.facebook.com/matheus.henrike.1217" target="_blank">Facebook</a>
-  <a href="https://www.instagram.com/justmatheus2/" target="_blank">Instagram</a>
- <a href="https://discord.gg/ajZgfqj4" target="_blank">Discord</a> 
-  <a href = "mailto:sousamatheus191999@gmail.com">Email</a>
+  <a href="https://www.facebook.com/matheus.henrike.1217" target="_blank"><img width="80" height="80" src="https://img.icons8.com/officel/80/facebook-new.png" alt="facebook-new"/></a>
+  <a href="https://www.instagram.com/justmatheus2/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/plasticine/64/instagram-new--v2.png" alt="instagram-new--v2"/></a>
+ <a href="https://discord.gg/ajZgfqj4" target="_blank"><img width="64" height="64" src="https://img.icons8.com/nolan/64/discord.png" alt="discord"/></a> 
+  <a href = "mailto:sousamatheus191999@gmail.com"><img width="64" height="64" src="https://img.icons8.com/color/64/gmail--v1.png" alt="gmail--v1"/></a>
 </div>
