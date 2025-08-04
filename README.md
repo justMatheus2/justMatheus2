@@ -22,8 +22,6 @@
   <a href="https://www.facebook.com/matheus.henrike.1217" target="_blank"><img width="64" height="64" src="https://img.icons8.com/fluency/64/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/justmatheus2/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/plasticine/64/instagram-new--v2.png" alt="instagram-new--v2"/></a>
  <a href="https://discord.gg/ajZgfqj4" target="_blank"><img width="64" height="64" src="https://img.icons8.com/nolan/64/discord.png" alt="discord"/></a> 
-  <a href = "mailto:sousamatheus191999@gmail.com"><img width="64" height="64" src="https://img.icons8.com/color/64/gmail--v1.png" alt="gmail--v1"/></a>
-  <a href = "www.linkedin.com/in/
-matheus-sousa-8b6608374
-"><img width="64" height="64" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="gmail--v1"/></a>
+  <a href = "mailto:sousamatheus191999@gmail.com" target="_blank"><img width="64" height="64" src="https://img.icons8.com/color/64/gmail--v1.png" alt="gmail--v1"/></a>
+  <a href = "https://www.linkedin.com/in/matheus-sousa-8b6608374/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn"/></a>
 </div>
